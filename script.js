@@ -38,5 +38,12 @@ async function getQuotes() {
     //Catch any error here
   }
 }
+
+//Tweet Quote
+function tweetQuote(){
+    const twitterUrl =
+}
+
+
 //On Load
 getQuotes();
