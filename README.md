@@ -1,3 +1,10 @@
-## This is a template file for future projects setup with the right must/needs for project automation/enviroment.
+## Quote Generator that showcases famous quotes, where you can even share the quote viewed on your twitter account.
 
-## Idea from Udemy Course on Web Dev.
+##Download
+  1) To view this have VSCODE installed
+  2) Run VSCODE
+  3) Have LiveServer installed as an extension
+  4) Open Terminal
+  5) Clone respitory using this link : https://github.com/oddvarzk/Quote-Generator.git
+  6) Run with Live Server
+  7) And voila you are good to go.
